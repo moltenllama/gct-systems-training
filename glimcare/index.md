@@ -11,7 +11,7 @@ If you forget your password, please speak to MoltenLlama, Paco1342 or clone1018 
 
 # The Glimcare Interface
 
-# Profile & Settings
+## Profile & Settings
 
 
 ## Changing your Password
@@ -32,7 +32,7 @@ To set up your Out of Office.  Go to your click your Avatar in the bottom left h
 3. Enter the name of the person who will be your substitute (they should have GCT at the end of their name)
 4. Click Enable
 
-![Screenshot of Settings page showing Out of Office options](images\screenshots\settings-ooo.png)
+![Screenshot of Settings page showing Out of Office options](images\screenshots\settings-ooo1.png)
 
 
 # Tickets
