@@ -31,7 +31,7 @@ The Dash is one of the main tools used by the GCT.  It enables us to view/edit u
 
 # Glimcare
 
-Glimcare is the system we use to manage incoming support emails, maintain the support.glimesh.tv site and also our own internal knowledge base.  It's based off the open source software called Zammad, so if you've used zammad or other similar ticketing sytems before (Zendesk, Freshdesk, Jira SD) you should find it quite easy to pick up.  The user guide is linked above.
+Glimcare is the system we use to manage incoming support emails, maintain the [support.glimesh.tv](https://support.glimesh.tv) site and also our own internal knowledge base.  It's based off the open source software called Zammad, so if you've used zammad or other similar ticketing sytems before (Zendesk, Freshdesk, Jira SD) you should find it quite easy to pick up.  The user guide is linked above.
 
 # Feedback
 
