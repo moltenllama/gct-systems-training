@@ -1,5 +1,3 @@
-# Glimcare
-
 # Introduction
 
 
