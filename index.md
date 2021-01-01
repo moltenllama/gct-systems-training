@@ -10,7 +10,7 @@ We're glad you're here!  This training covers the different systems we use to su
 
 The Dash and Glimcare are still being developed, so the screenshots and information below may be out of date.  If you find something that needs updating, feel free to fix it.  If you don't have access or aren't familar with editing pages on Github, ask for help in the Discord or have a chat with your Lead.
 
-## Discord
+# Discord
 
 We use both the Glimesh public Discord server and an invite only GCT Discord Server. 
 
@@ -24,24 +24,29 @@ just let your Team Lead know and they'll get you in.
 Discord is very common in the industry, and we assume that most new GCT members will already be familiar with how to use it.  If you ever need a refresher, there's a great guide on the Discord Support Site -> [Discord Beginner Guide](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord)
 
 
-## GCT Dash
+# GCT Dash
 
-### Introduction
-### Accessing the Dash
-### Editing User profiles
-### Editing Channel Information
+## Introduction
+## Accessing the Dash
+## Editing User profiles
+## Editing Channel Information
 
 Under development. 
 
-## Glimcare
+# Glimcare
 
-### Introduction
-### Housekeeping
-### The Glimcare Interface
-### Tickets
-### Knowledge Base
-### Reporting
-### Advanced Features
+## Introduction
+### Accessing Glimcare
+### Why use a ticketing system?
+### 
+## The Glimcare Interface
+## Your Account
+###
+### Notifications
+## Tickets
+## Knowledge Base
+## Reporting
+## Advanced Features
 
 Under development. 
 
