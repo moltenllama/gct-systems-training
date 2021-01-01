@@ -15,7 +15,8 @@ We use both the Glimesh public Discord server and an invite only GCT Discord Ser
 The public Discord is where we assist and hang out with the Glimesh community members and other contributors, while the GCT Discord is usually very focused and used for discussing current platform issues, bans etc.
 
 ```markdown
-If you haven't received an invite to the GCT Discord as yet, just let your Team Lead know and they'll get you in.
+If you haven't received an invite to the GCT Discord as yet, 
+just let your Team Lead know and they'll get you in.
 ```
 
 Discord is common in the industry, and we assume that most new GCT members will already be familiar with how to use it.  If you ever need a refresher, there's a great guide on the Discord Support Site https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord. 
