@@ -10,6 +10,8 @@ We're glad you're here!  This training covers the different systems we use to su
 
 The Dash and Glimcare are still being developed, so the screenshots and information below may be out of date.  If you find something that needs updating, feel free to fix it.  If you don't have access or aren't familar with editing pages on Github, ask for help in the Discord or have a chat with your Lead.
 
+If you have any questions or access issues, ask for help in Discord, or if you get stuck, contact one of the experts listed above.
+
 # Discord
 
 We use both the Glimesh public Discord server and an invite only GCT Discord Server. 
