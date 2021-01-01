@@ -32,7 +32,7 @@ To set up your Out of Office.  Go to your click your Avatar in the bottom left h
 3. Enter the name of the person who will be your substitute (they should have GCT at the end of their name)
 4. Click Enable
 
-![Screenshot of settings page showing out of office options](images/screenshots/settings-ooo2.png)
+![Screenshot of settings page showing out of office options](https://github.com/moltenllama/gct-systems-training/blob/gh-pages/images/screenshots/settings-ooo2.png)
 
 # Tickets
 
