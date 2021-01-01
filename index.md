@@ -5,8 +5,8 @@ We're glad you're here!  This training covers the different systems we use to su
 | System Name | Description                                                                                                  | Expert                 | User Guide                                                                                     |
 |-------------|--------------------------------------------------------------------------------------------------------------|------------------------|------------------------------------------------------------------------------------------------|
 | Discord     | Used to interact with both our users and contributors as well as other members of the GCT                    | Paco1342, Ember, Heiwa | [View](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord) |
-| GCT Dash    | The dashboard we use to view and edit user/channel information and take action on reports                    | mja00                  | [View](dash\index.md)                                                                          |
-| Glimcare    | Used to respond to user emails and maintain the Knowledge Base/Glimesh Support Portal (support.glimesh.tv)   | MoltenLlama            | [View](glimcare\index.md)                                                                      |
+| GCT Dash    | The dashboard we use to view and edit user/channel information and take action on reports                    | mja00                  | [View](dash\)                                                                          |
+| Glimcare    | Used to respond to user emails and maintain the Knowledge Base/Glimesh Support Portal (support.glimesh.tv)   | MoltenLlama            | [View](glimcare\)                                                                      |
 
 The Dash and Glimcare are still being developed, so the screenshots and information below may be out of date.  If you find something that needs updating, feel free to fix it.  If you don't have access or aren't familar with editing pages on Github, ask for help in the Discord or have a chat with your Lead.
 
@@ -21,34 +21,12 @@ Haven't received an invite to the GCT Discord as yet?
 Just let your Team Lead know and they'll get you in!
 ```
 
-Discord is very common in the industry, and we assume that most new GCT members will already be familiar with how to use it.  If you ever need a refresher, there's a great guide on the Discord Support Site -> [Discord Beginner Guide](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord)
-
+Discord is very common in the industry, and we assume that most new GCT members will already be familiar with how to use it.  If you ever need a refresher, there's a great guide on the Discord Support Site linked in the table above.
 
 # GCT Dash
 
-## Introduction
-## Accessing the Dash
-## Editing User profiles
-## Editing Channel Information
-
-Under development. 
 
 # Glimcare
-
-## Introduction
-### Accessing Glimcare
-### Why use a ticketing system?
-### 
-## The Glimcare Interface
-## Your Account
-###
-### Notifications
-## Tickets
-## Knowledge Base
-## Reporting
-## Advanced Features
-
-Under development. 
 
 # Feedback
 
