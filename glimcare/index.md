@@ -7,7 +7,7 @@ Glimcare is accessed via a web browser.  Shortly after joining the team, you'll 
 
 At this stage, Glimcare accounts are separate from Glimesh accounts.  Logging in with your Glimesh or Github account is a feature we're looking in to, and may be available in the future.
 
-If you forget your password, please speak to MoltenLlama, Paco1342 or clone1018 who all have Admin access.  These days a password manager is recommended so that you aren't using the same password on multiple sites.  Bitwarden is an open-source and audited password manager that is available for free, you can [download it here](https://bitwarden.com/).
+If you forget your password, please speak to MoltenLlama, Paco1342 or clone1018 who all have Admin access.  These days a password manager is recommended so that you aren't using the same password on multiple sites.  Bitwarden is an open-source and independently audited password manager that is available for free, you can [download it here](https://bitwarden.com/).
 
 # The Glimcare Interface
 
@@ -32,8 +32,7 @@ To set up your Out of Office.  Go to your click your Avatar in the bottom left h
 3. Enter the name of the person who will be your substitute (they should have GCT at the end of their name)
 4. Click Enable
 
-![Screenshot of Settings page showing Out of Office options](images\screenshots\settings-ooo1.png)
-
+![Screenshot of settings page showing out of office options](images/screenshots/settings-ooo2.png)
 
 # Tickets
 
