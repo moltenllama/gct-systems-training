@@ -2,6 +2,14 @@
 
 We're glad you're here!  This training covers the different systems we use to support the Glimesh community and keep to Glimesh a safe place.  We have 3 main system that we use;
 
+| System Name        | Description           | Expert  |
+| :------------:|:-------------:|:-----:|
+| Discord       | right-aligned | $1600 |
+| GCT Dash      | centered      |   $12 |
+| Glimcare      | are neat      |    $1 |
+
+
+
 - **Discord:** Used to interact with both our users and contributors as well as other members of the GCT.
 - **GCT Dash:** The dashboard we use to view and edit user/channel information and take action on reports.
 - **Glimcare:** Our Ticketing and Knowledge System.
@@ -25,6 +33,10 @@ Discord is common in the industry, and we assume that most new GCT members will 
 ## GCT Dash
 
 TODO: 
+
+## Glimcare
+
+
 
 ## Feedback
 
