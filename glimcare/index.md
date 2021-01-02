@@ -2,12 +2,12 @@
 
 
 
-## Accessing Glimcare
+## Accessing Glimcare / Password
 Glimcare is accessed via a web browser.  Shortly after joining the team, you'll receive a Discord DM with your username and password, along with the link to the access Glimcare.
 
 At this stage, Glimcare accounts are separate from Glimesh accounts.  Logging in with your Glimesh or Github account is a feature we're looking in to, and may be available in the future.
 
-If you forget your password, please speak to MoltenLlama, Paco1342 or clone1018 who all have Admin access.  These days a password manager is recommended so that you aren't using the same password on multiple sites.  Bitwarden is an open-source and independently audited password manager that is available for free, you can [download it here](https://bitwarden.com/).
+If you forget your password, please speak to MoltenLlama or Paco1342 who both have access to reset passwords. These days a password manager is highly recommended so that you can use long and unique passwords for each site.  Do not use the same password on multiple sites.  Bitwarden is an open-source and independently audited password manager that is available for free, you can [download it here](https://bitwarden.com/).
 
 # The Glimcare Interface
 
@@ -49,6 +49,9 @@ Using a ticket system rather than just use email allows us to organize and catal
 Another benefit of the ticketing system is the centralization of information. The tickets are all stored in on system that can be searched and referenced for future cases. Not only does that help with customer service analytics, but GCT members can also use it to look up past cases that may have a solution related to their present problem.
 
 ## What information is in a ticket?
+
+Tickets 
+
 ## Ticket Queues
 ## Ticket Priorities
 
