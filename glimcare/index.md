@@ -96,9 +96,13 @@ Tickets all have the some common information attached to them.  Here's a summary
 
 ## Ticket Statuses
 
+The state of a ticket refers to its progress toward completion, and may be one of the following:
 
-- Open: Ticket is 
-- Closed: Ticket has been 
+- new
+- open
+- closed
+- pending close (i.e., scheduled to automatically close at a later date)
+- pending reminder (i.e., hidden, but scheduled to reappear at a later date) 
 
 
 ## Ticket Queues
