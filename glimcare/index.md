@@ -92,17 +92,45 @@ Tickets all have the some common information attached to them.  Here's a summary
 - **Status:** This let's us know the current state of a ticket.  Tickets can be open, closed or pending.
 - **Priority:** Let's us prioritize tickets and alerts us to tickets that need immediate action.  Can be Low, Medium or High. An 'Emergency' priority will be added in a future release.
 - **Queue:** Queues allow us to group tickets together.  As Glimesh grows so will the amount of tickets we receive. We'll need to sort tickets in to queues like 'Billing', 'Technical Issues', 'Team Lead Required' etc.
-- **Notes / Emails:** 
-
-
-
+- **Notes / Emails:** Tickets also include emails sent between us and the user and can include private internal only notes that the user can't see.
 
 ## Ticket Queues
+
+Queues let us sort tickets in to different stacks to make them easier to manage.  For instance, we could have a queue for Refund Requests and another one for tickets in Spanish.  
+
+As we grow and find our feet, we'll be using Queues more and more, but to start with, we'll be using 2 queues:
+
+- General Support
+- Team Lead Escalation
+
+General support will be where all new tickets come in to.
+
+Team Lead Escalation will be where we send tickets that need assistance from a Team Lead (could be things like needing something done on the Dash that you don't have access to, or for when you need to escalate an urgent issue to a leader).
+
 ## Ticket Priorities
+
+These allow us to prioritise our work, making sure that we pick up critical issues as soon as possible.  There are 3 ticket priorites:
+
+- Low
+- Medium (Default)
+- High
+
+When picking up tickets to work on from the queue, you should always be picking up High Priority tickets first, followed by Medium and then Low.
+
+If you see a High Priority ticket in the queue and you're too busy to pick it up, please let everyone know in Discord.
+
+NOTE: There may be an Emergency priority added at a later stage.
+
+## Tags
+
+Tags work exactly how you think they do.  Every ticket can have multiple tags.  They allow us to group tickets together similar to queues.
+
+We're also able to run reports based on tags as well.
+
+We'll work out how to best use tags as we start using the system.  Watch this space!
 
 <!---
 # Knowledge Base
 # Reporting
 # Advanced Features
 -->
-
