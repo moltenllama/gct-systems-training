@@ -2,24 +2,43 @@
 < Back to [Systems Training](../index.md)
 
 # Introduction
+## What is Glimcare?
 Glimcare is the system that we use to repsond to emails, update the knowledge artciles on the support website and it also hosts our internal only, GCT Hub.
 
+Glimcare includes 3 main applications: The Dashboard, Ticketing System and Knowledgebase.
 
-
-## Accessing Glimcare / Password
+## Accessing Glimcare
 Glimcare is accessed via a web browser.  Shortly after joining the team, you'll receive a Discord DM with your username and password, along with the link to the access Glimcare.
+
+# The Glimcare Interface
+Glimcare uses an all-in-one design, with a global search box at the top left, a tab list of your open tickets below that and finally the profile and settings options down the bottom.  The right hand side of the page is where the main content you're working on is displayed.
+
+1. Global Search: Allows you to search for tickets by number, email address or keywords.  There are advanced search terms you can use as well, which can be found [here](https://user-docs.zammad.org/en/latest/advanced/search.html).
+
+2. App Switcher: You can switch between the Dashboard, Ticketing System and the Knowledgebase by clicking them in the switcher.
+
+3. Tabs: These work similar to browser tabs.  You can have multiple tickets open at the same time and can click on them to switch between them.  Any changes you make are stored, so you can safely move between tabs without saving without losing anything.
+
+4. The profile button where you can change your Glimesh preferences and also see a list of your recently opened items.
+
+5. The + button creates a new ticket.
+
+6. Main content area, in the example above it's showing the Dashboard.
+
+7. The Activity List shows you recent actions taken by other team members.
+
+NOTE: You can only have one browser tab logged in at a time.  You can still have multiple tickets open, each ticket will open as a tab in your ticket tab list and you can switch between tickets without losing your changes.
+
+## Profile & Settings
+
+## Changing your Password
 
 At this stage, Glimcare accounts are separate from Glimesh accounts.  Logging in with your Glimesh or Github account is a feature we're looking in to, and may be available in the future.
 
 If you forget your password, please speak to MoltenLlama or Paco1342 who both have access to reset passwords. These days a password manager is highly recommended so that you can use long and unique passwords for each site.  Do not use the same password on multiple sites.  Bitwarden is an open-source and independently audited password manager that is available for free, you can [download it here](https://bitwarden.com/).
 
-# The Glimcare Interface
-
-## Profile & Settings
-
-
-## Changing your Password
 ## Updating your Avatar
+
 ## Setting up Notifications
 ## Out of Office / Extended Absence
 
