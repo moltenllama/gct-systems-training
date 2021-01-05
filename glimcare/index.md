@@ -47,7 +47,11 @@ Your password needs to be **at least** 12 characters, made up of uppercase lette
 You can upload an avatar to use within Glimcare.  Please keep it professional.  At the moment it can only be seen internally, but if we add additional features like Live Chat or a portal where users can see their tickets, it will be shown there.  HINT: Glimdrops make great avatars ;)
 
 ## Setting up Notifications
-At this sta
+Here you can set up your notifications and notification sound, by default you'll hear a notification sound every time a new ticket comes in.
+
+You can choose the notification sound at the bottom of this page.
+
+At this stage, email notifications aren't enabled so checking the Notify By Email boxes will not work.
 
 ## Out of Office / Extended Absence
 
@@ -65,10 +69,6 @@ To set up your Out of Office.  Go to your click your Avatar in the bottom left h
 4. Click Enable
 
 You can use the delete button to stop the out of office from forwarding your tickets, or it will automatically end at the time you chose above.
-
-<!--
-![Screenshot of settings page showing out of office options](https://github.com/moltenllama/gct-systems-training/raw/gh-pages/images/screenshots/settings-ooo2.png)
--->
 
 # Tickets
 
