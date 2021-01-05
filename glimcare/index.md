@@ -27,7 +27,7 @@ Glimcare uses an all-in-one design, with a global search box at the top left, a 
 
 7. The Activity List shows you recent actions taken by other team members.
 
-NOTE: You can only have one browser tab logged in at a time.  You can still have multiple tickets open, each ticket will open as a tab in your ticket tab list and you can switch between tickets without losing your changes.
+**NOTE:** You can only have one browser tab logged in at a time.  You can still have multiple tickets open, each ticket will open as a tab in your ticket tab list and you can switch between tickets without losing your changes.
 
 ## Profile & Settings
 
