@@ -3,7 +3,7 @@
 
 # Getting Started
 ## What is Glimcare?
-Glimcare is the system that we use to repsond to emails, update the knowledge artciles on the support website and it also hosts our internal only, GCT Hub.
+Glimcare is the system that we use to repsond to emails, update the knowledge articles on the support website and it also hosts our internal only, GCT Hub.
 
 Glimcare includes 3 main applications: The Dashboard, Ticketing System and Knowledgebase.
 
@@ -93,6 +93,13 @@ Tickets all have the some common information attached to them.  Here's a summary
 - **Priority:** Let's us prioritize tickets and alerts us to tickets that need immediate action.  Can be Low, Medium or High. An 'Emergency' priority will be added in a future release.
 - **Queue:** Queues allow us to group tickets together.  As Glimesh grows so will the amount of tickets we receive. We'll need to sort tickets in to queues like 'Billing', 'Technical Issues', 'Team Lead Required' etc.
 - **Notes / Emails:** Tickets also include emails sent between us and the user and can include private internal only notes that the user can't see.
+
+## Ticket Statuses
+
+
+- Open: Ticket is 
+- Closed: Ticket has been 
+
 
 ## Ticket Queues
 
