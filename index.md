@@ -8,7 +8,7 @@ We're glad you're here!  This training covers the different systems we use to su
 | GCT Dash    | The dashboard we use to view and edit user/channel information and take action on reports                    | mja00                  | [View](dash\)                                                                                  |
 | Glimcare    | Used to respond to user emails and maintain the Knowledge Base/Glimesh Support Portal (support.glimesh.tv)   | MoltenLlama            | [View](glimcare\)                                                                              |
 
-The Dash and Glimcare are still being developed, so the screenshots and information below may be out of date.  If you find something that needs updating, feel free to fix it.  If you don't have access or aren't familar with editing pages on Github, ask for help in the Discord or have a chat with your Lead.
+The Dash and Glimcare are still being developed, so the screenshots and information in these guides may be out of date.  If you find something that needs updating, feel free to fix it.  If you don't have access or aren't familar with editing pages on Github, ask for help in the Discord or have a chat with your Lead.
 
 If you have any questions or access issues, ask for help in Discord, or if you get stuck, contact one of the experts listed above.
 
@@ -31,7 +31,7 @@ The Dash is one of the main tools used by the GCT.  It enables us to view/edit u
 
 # Glimcare
 
-Glimcare is the system we use to manage incoming support emails, maintain the [support.glimesh.tv](https://support.glimesh.tv) site and also our own internal knowledge base.  It's based off the open source software called Zammad, so if you've used zammad or other similar ticketing sytems before (Zendesk, Freshdesk, Jira SD) you should find it quite easy to pick up.  The user guide is linked above.
+Glimcare is the system we use to manage incoming support emails, maintain the [support.glimesh.tv](https://support.glimesh.tv) site and also our own internal knowledge base.  It's based off the open source software called Zammad, so if you've used zammad or other similar ticketing sytems before (Zendesk, Freshdesk, Jira SD) you should find it quite easy to pick up.  For more information on Glimcare, check out the guide above.
 
 # Feedback
 

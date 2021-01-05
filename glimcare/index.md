@@ -1,4 +1,8 @@
+
+< Back to [Systems Training](../index.md)
+
 # Introduction
+Glimcare is the system that we use to repsond to emails, update the knowledge artciles on the support website and it also hosts our internal only, GCT Hub.
 
 
 
@@ -32,7 +36,11 @@ To set up your Out of Office.  Go to your click your Avatar in the bottom left h
 3. Enter the name of the person who will be your substitute (they should have GCT at the end of their name)
 4. Click Enable
 
+You can use the delete button to stop the out of office from forwarding your tickets, or it will automatically end at the time you chose above.
+
+<!--
 ![Screenshot of settings page showing out of office options](https://github.com/moltenllama/gct-systems-training/raw/gh-pages/images/screenshots/settings-ooo2.png)
+-->
 
 # Tickets
 
@@ -50,14 +58,23 @@ Another benefit of the ticketing system is the centralization of information. Th
 
 ## What information is in a ticket?
 
-Tickets 
+Tickets all have the some common information attached to them.  Here's a summary:
+
+- **Ticket Number:** A unique number given to every ticket and what we usuually use to look up a ticket when searching.
+- **Status:** This let's us know the current state of a ticket.  Tickets can be open, closed or pending.
+- **Priority:** Let's us prioritize tickets and alerts us to tickets that need immediate action.  Can be Low, Medium or High. An 'Emergency' priority will be added in a future release.
+- **Queue:** Queues allow us to group tickets together.  As Glimesh grows so will the amount of tickets we receive. We'll need to sort tickets in to queues like 'Billing', 'Technical Issues', 'Team Lead Required' etc.
+- **Notes / Emails:** 
+
+
+
 
 ## Ticket Queues
 ## Ticket Priorities
 
-
+<!---
 # Knowledge Base
 # Reporting
 # Advanced Features
-
+-->
 
