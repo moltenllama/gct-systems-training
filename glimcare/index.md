@@ -1,7 +1,7 @@
 
 < Back to [Systems Training](../index.md)
 
-# Introduction
+# Getting Started
 ## What is Glimcare?
 Glimcare is the system that we use to repsond to emails, update the knowledge artciles on the support website and it also hosts our internal only, GCT Hub.
 
