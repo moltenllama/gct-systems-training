@@ -14,7 +14,7 @@ At this stage, Glimcare accounts are separate from Glimesh accounts.  Logging in
 
 If you forget your password, please speak to MoltenLlama or Paco1342 who both have access to reset passwords. These days a password manager is highly recommended so that you can use long and unique passwords for each site.  Do not use the same password on multiple sites.  Bitwarden is an open-source and independently audited password manager that is available for free, you can download it [here](https://bitwarden.com/).
 
-# The Glimcare Interface
+# Settings Things Up
 Glimcare uses an all-in-one design, with a global search box at the top left, a tab list of your open tickets below that and finally the profile and settings options down the bottom.  The right hand side of the page is where the main content you're working on is displayed.
 
 << TODO: insert screenshot >>
