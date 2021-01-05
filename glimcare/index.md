@@ -10,8 +10,14 @@ Glimcare includes 3 main applications: The Dashboard, Ticketing System and Knowl
 ## Accessing Glimcare
 Glimcare is accessed via a web browser.  Shortly after joining the team, you'll receive a Discord DM with your username and password, along with the link to the access Glimcare.
 
+At this stage, Glimcare accounts are separate from Glimesh accounts.  Logging in with your Glimesh or Github account is a feature we're looking in to, and may be available in the future.
+
+If you forget your password, please speak to MoltenLlama or Paco1342 who both have access to reset passwords. These days a password manager is highly recommended so that you can use long and unique passwords for each site.  Do not use the same password on multiple sites.  Bitwarden is an open-source and independently audited password manager that is available for free, you can download it [here](https://bitwarden.com/).
+
 # The Glimcare Interface
 Glimcare uses an all-in-one design, with a global search box at the top left, a tab list of your open tickets below that and finally the profile and settings options down the bottom.  The right hand side of the page is where the main content you're working on is displayed.
+
+<< TODO: insert screenshot >>
 
 1. Global Search: Allows you to search for tickets by number, email address or keywords.  There are advanced search terms you can use as well, which can be found [here](https://user-docs.zammad.org/en/latest/advanced/search.html).
 
@@ -31,18 +37,21 @@ Glimcare uses an all-in-one design, with a global search box at the top left, a 
 
 ## Profile & Settings
 
-## Changing your Password
+The profile and setting area allows you to change a number of things, including your password, avatar, notifcation settings and also set up your Out of Office settings.
 
-At this stage, Glimcare accounts are separate from Glimesh accounts.  Logging in with your Glimesh or Github account is a feature we're looking in to, and may be available in the future.
+## Password
 
-If you forget your password, please speak to MoltenLlama or Paco1342 who both have access to reset passwords. These days a password manager is highly recommended so that you can use long and unique passwords for each site.  Do not use the same password on multiple sites.  Bitwarden is an open-source and independently audited password manager that is available for free, you can [download it here](https://bitwarden.com/).
+Your password needs to be **at least** 12 characters, made up of uppercase letters, lowercase letters, numbers and special characters.  A password of 16 characters or more is highly recommended, to keep track, use a password manager like Bitwarden, Roboform or Lastpass, or use the built in password manager in your browser.
 
 ## Updating your Avatar
+You can upload an avatar to use within Glimcare.  Please keep it professional.  At the moment it can only be seen internally, but if we add additional features like Live Chat or a portal where users can see their tickets, it will be shown there.  HINT: Glimdrops make great avatars ;)
 
 ## Setting up Notifications
+At this sta
+
 ## Out of Office / Extended Absence
 
-If you're going to be away for an extended period of time.  You should set up your Out of Office in advance via your Glimcare settings.  During your time away your designated substitute will handle your tickets while you’re gone.
+If you're going to be away for an extended period of time.  You should set up your Out of Office in advance via your Glimcare settings.  During your time away your designated substitute will handle your tickets.
 
 Your substitute will receive all your ticket notifications during your absence, it is suggested that you select your Team Lead as the substitute.
 
