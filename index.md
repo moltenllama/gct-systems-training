@@ -1,6 +1,6 @@
 # Welcome to the Glimesh Community Team (GCT)
 
-We're glad you're here!  This training covers the different systems we use to support the Glimesh community and keep to Glimesh a safe place.  We have 3 main system that we use;
+We're glad you're here!  This training covers the different systems we use to support the Glimesh community and to keep Glimesh a safe place.  We have 3 main systems that we use;
 
 | System Name | Description                                                                                                  | Expert                 | User Guide                                                                                     |
 |-------------|--------------------------------------------------------------------------------------------------------------|------------------------|------------------------------------------------------------------------------------------------|

@@ -88,7 +88,7 @@ Another benefit of the ticketing system is the centralization of information. Th
 
 Tickets all have the some common information attached to them.  Here's a summary:
 
-- **Ticket Number:** A unique number given to every ticket and what we usuually use to look up a ticket when searching.
+- **Ticket Number:** A unique number given to every ticket and what we usually use to look up a ticket when searching.
 - **Status:** This let's us know the current state of a ticket.  Tickets can be open, closed or pending.
 - **Priority:** Let's us prioritize tickets and alerts us to tickets that need immediate action.  Can be Low, Medium or High. An 'Emergency' priority will be added in a future release.
 - **Queue:** Queues allow us to group tickets together.  As Glimesh grows so will the amount of tickets we receive. We'll need to sort tickets in to queues like 'Billing', 'Technical Issues', 'Team Lead Required' etc.
@@ -96,14 +96,13 @@ Tickets all have the some common information attached to them.  Here's a summary
 
 ## Ticket Statuses
 
-The state of a ticket refers to its progress toward completion, and may be one of the following:
+The state of a ticket refers to it's progress toward completion, and may be one of the following:
 
-- new
-- open
-- closed
-- pending close (i.e., scheduled to automatically close at a later date)
-- pending reminder (i.e., hidden, but scheduled to reappear at a later date) 
-
+- **New:** The user still hasn’t received a response from us.
+- **Open:** The user has received an initial response, but the ticket is still being worked on.
+- **Closed:** The issue has been resolved / request has been completed.
+- **Pending Close:** (i.e., scheduled to automatically close at a later date)
+- **Pending Reminder:** (i.e., hidden, but scheduled to reappear at a later date) 
 
 ## Ticket Queues
 
